@@ -3,62 +3,9 @@
 ## 👨‍💻  Sr. Web & Mobile app developer 
 > Full Stack | MERN | React Native | Flutter
 
-With over 8 years of experience in full-stack web and mobile development, I specialize in creating reliable applications using technologies like React.js, Next.js, Vue.js, Angular.js, Node.js, React Native, and Flutter. I'm committed to delivering top-notch solutions tailored to the project's requirements for a seamless user experience across all platforms.
+Drawing from over eight years of immersive experience in full-stack web and mobile development, I bring a wealth of expertise to the table. My journey has been defined by a relentless pursuit of excellence, crafting applications that not only meet but exceed expectations. Specializing in technologies like React.js, Next.js, Vue.js, Angular.js, Node.js, React Native, and Flutter, I thrive on the challenges of creating seamless, cross-platform solutions. My commitment to delivering top-notch results is unwavering, ensuring that each project is tailored precisely to its unique requirements for an unparalleled user experience.
 
 📫 Feel free to reach out for collaborations, project inquiries, or just to connect. Together, let's push the boundaries of what's possible in the digital world!
-
-## Skills 
-
-### Frontend Development:
-- React.js/ts
-- Next.js/ts
-- Vue.js
-- Nuxt.js
-- Angular
-- mui
-- Chakra UI
-- Ant Design
-- SCSS
-- Styled Components
-- Story book
-
-### Backend Development:
-- Node.js/ts
-- Nest.js/ts
-- Express
-- MongoDB
-- SQL
-- Postgres
-- GraphQl
-- RestApi
-- Postman
-- Firebase
-- Microservices 
-
-### Mobile App Development:
-- React Native (Cli/Expo)
-- Flutter
-- Kotlin
-- Swift
-
-
-### CMS Development:
-- WordPress
-- Shopify
-- Squarespace
-- Hubspot
-- WIX
-
-### DevOps Engineering:
-- CI/CD
-- AWS
-- Google Cloud
-- Azure
-- Heroku
-- Netlify
-- VPS
-- Linux
-
 
 ### :hammer_and_wrench: Languages and Tools :
 <div style="display: flex; flex-wrap: nowrap;">
